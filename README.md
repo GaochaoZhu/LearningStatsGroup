@@ -12,3 +12,5 @@ pip install matplotlib
 pip install seaborn
 pip install pyecharts
 ```
+阅读环境：Github不支持Latex公式，建议使用VS Code阅读markdown
+
