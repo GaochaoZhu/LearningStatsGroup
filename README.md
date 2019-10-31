@@ -1,14 +1,12 @@
 # 统计学学习小组笔记打卡
 
+腾讯数据分析大佬**木东居士**的统计学学习小组打卡记录
+
 week 1: [数据的图表展示](https://github.com/AeneasZhu/LearningStatsGroup/blob/master/week1/%E6%95%B0%E6%8D%AE%E7%9A%84%E5%9B%BE%E6%A0%87%E5%B1%95%E7%A4%BA.md)
 
 # 参考用书
 
-《统计学(第六版)》作者：贾俊平 经管核心课程系列
-
-《统计学(第七版)》作者：贾俊平**等**
-
-两本书是不一样的，前者内容更多更深，后者更基础
+《统计学(第七版)》作者：贾俊平
 
 # 环境依赖
 
@@ -18,7 +16,16 @@ pip install pandas
 pip install numpy
 pip install matplotlib
 pip install seaborn
+pip install xlrd # pandas读取excel
 pip install pyecharts
 ```
-阅读环境：Github不支持Latex公式，建议使用VS Code阅读markdown
+
+# python学习网站推荐
+
+[numpy中文教程](https://www.numpy.org.cn/)
+
+[pandas中文教程](https://www.pypandas.cn/)
+
+[matplotlib中文教程](https://www.matplotlib.org.cn/)
+
 
