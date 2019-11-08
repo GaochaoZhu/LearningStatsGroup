@@ -19,3 +19,5 @@
 - 运用numpy,scipy,pandas计算主要描述性统计变量
 - 运用matplotlib和scipy绘制偏态分布图
 - 理解各类描述性统计变量的含义和使用场合
+
+# [学习笔记](https://github.com/AeneasZhu/LearningStatsGroup/blob/master/week2/week2.ipynb)
