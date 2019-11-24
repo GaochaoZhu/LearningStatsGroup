@@ -8,9 +8,13 @@ week 2: [描述性统计变量](https://github.com/AeneasZhu/LearningStatsGroup/
 
 
 week 3: [python安装和环境配置](https://github.com/AeneasZhu/LearningStatsGroup/tree/master/week3)
+
+week 4: [概率分布](https://github.com/AeneasZhu/LearningStatsGroup/tree/master/week4)
 # 参考用书
 
 《统计学(第七版)》作者：贾俊平
+
+《商务与经济统计方法》作者：Samuel Anderson, etc
 
 # 环境依赖
 
