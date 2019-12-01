@@ -15,4 +15,4 @@
   - 方差比
 - 样本量的确定
 
-## 学习笔记
+## [学习笔记](https://github.com/AeneasZhu/LearningStatsGroup/blob/master/week5/week5.ipynb)
